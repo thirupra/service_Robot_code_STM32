@@ -1,0 +1,10 @@
+12:44:02 **** Incremental Build of configuration Debug for project Service_Robot_slave ****
+make -j8 all 
+arm-none-eabi-size   Service_Robot_slave.elf 
+   text	   data	    bss	    dec	    hex	filename
+  52500	    512	   3016	  56028	   dadc	Service_Robot_slave.elf
+Finished building: default.size.stdout
+ 
+
+12:44:02 Build Finished. 0 errors, 0 warnings. (took 223ms)
+

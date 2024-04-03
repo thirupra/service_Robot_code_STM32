@@ -1,0 +1,4 @@
+../Core/Src/ring_buffer.c:37:6:Ringbuf_init	4	static
+../Core/Src/ring_buffer.c:49:6:store_byte	24	static
+../Core/Src/ring_buffer.c:82:9:Uart_read	16	static
+../Core/Src/ring_buffer.c:99:5:IsDataAvailable	4	static

@@ -1,0 +1,4 @@
+../Core/Src/ring_buffer.c:37:6:Ringbuf_init	1
+../Core/Src/ring_buffer.c:49:6:store_byte	2
+../Core/Src/ring_buffer.c:82:9:Uart_read	2
+../Core/Src/ring_buffer.c:99:5:IsDataAvailable	1

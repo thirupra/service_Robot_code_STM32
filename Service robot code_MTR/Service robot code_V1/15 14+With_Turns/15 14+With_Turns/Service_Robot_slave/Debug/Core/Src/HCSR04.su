@@ -1,0 +1,4 @@
+../Core/Src/HCSR04.c:24:6:send_pulse	8	static
+../Core/Src/HCSR04.c:33:10:center_ultra	16	static
+../Core/Src/HCSR04.c:56:10:right_ultra	16	static
+../Core/Src/HCSR04.c:79:10:Left_ultra	16	static
